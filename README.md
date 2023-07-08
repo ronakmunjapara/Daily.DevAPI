@@ -15,4 +15,21 @@ To get started with the Daily.DevAPI project, follow the steps below:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/Daily.DevAPI.git
+   git clone https://github.com/ronakmunjapara/Daily.DevAPI.git
+
+
+
+
+Contributing
+
+Contributions to the Daily.DevAPI project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+Please review the contribution guidelines before getting started.
+License
+
+This project is licensed under the MIT License.
+
+This consolidated README.md file includes all the necessary information and instructions for setting up and running the project, as well as details about features, contributing, and licensing.
+
+Feel free to customize the content according to your specific project requirements.
+
