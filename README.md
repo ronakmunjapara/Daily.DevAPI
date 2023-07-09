@@ -16,20 +16,19 @@ To get started with the Daily.DevAPI project, follow the steps below:
 
    ```bash
    git clone https://github.com/ronakmunjapara/Daily.DevAPI.git
+   ```bash
 
 
 
 
-Contributing
+## Contributing
 
-Contributions to the Daily.DevAPI project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Contributions to the Fit.Rony Telegram bot project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-Please review the contribution guidelines before getting started.
-License
+## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
-This consolidated README.md file includes all the necessary information and instructions for setting up and running the project, as well as details about features, contributing, and licensing.
+## Contact
 
-Feel free to customize the content according to your specific project requirements.
-
+For any inquiries or support regarding the Fit.Rony bot, please contact us at munjapararonak1@gmail.com
