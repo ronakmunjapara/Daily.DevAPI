@@ -16,9 +16,13 @@ To get started with the Daily.DevAPI project, follow the steps below:
 
    ```bash
    git clone https://github.com/ronakmunjapara/Daily.DevAPI.git
-   ```bash
 
 
+
+
+
+## Screenshot
+![image](https://github.com/ronakmunjapara/Daily.DevAPI/assets/43374534/d58a72eb-0814-422f-b177-e208eaaaee53)
 
 
 ## Contributing
